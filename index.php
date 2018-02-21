@@ -1,3 +1,3 @@
 <?php
 
-echo "This is GIT Jenkins Integrate Web completed successfully" ?>
+echo "This is GIT Jenkins Integration Web completed successfully" ?>
